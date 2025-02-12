@@ -1,4 +1,4 @@
-# gff annotations
+# gff to csv
 Convert .gff file to csv with annotations in columns
 
 To use:
