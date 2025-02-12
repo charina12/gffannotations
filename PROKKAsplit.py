@@ -1,9 +1,9 @@
 import pandas as pd
 
 # path to .csv file with one column named "annotations"
-x = "/Users/charlottemanvell/MAG/kBase/GTDB-Tk/D62_bin2gff.csv"
+x = 
 # path to write csv
-out = "/Users/charlottemanvell/MAG/kBase/GTDB-Tk/D62_bin2.csv"
+out = 
 
 df = pd.read_csv(x)
 
